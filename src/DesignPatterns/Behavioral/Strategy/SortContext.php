@@ -1,10 +1,10 @@
 <?php
 
-namespace DesignPatterns\Behavioral\Strategy\Php;
+namespace DesignPatterns\Behavioral\Strategy;
 
 
 
-use DesignPatterns\Behavioral\Strategy\Php\Sort;
+use DesignPatterns\Behavioral\Strategy\Sort;
 
 
 class SortContext {

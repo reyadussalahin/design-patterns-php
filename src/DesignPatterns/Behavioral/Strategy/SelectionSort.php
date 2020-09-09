@@ -1,6 +1,6 @@
 <?php
 
-namespace DesignPatterns\Behavioral\Strategy\Php;
+namespace DesignPatterns\Behavioral\Strategy;
 
 
 class SelectionSort implements Sort {

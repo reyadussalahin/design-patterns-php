@@ -2,9 +2,9 @@
 
 use PHPUnit\Framework\TestCase;
 
-use DesignPatterns\Behavioral\Strategy\Php\InsertionSort;
-use DesignPatterns\Behavioral\Strategy\Php\SelectionSort;
-use DesignPatterns\Behavioral\Strategy\Php\SortContext;
+use DesignPatterns\Behavioral\Strategy\InsertionSort;
+use DesignPatterns\Behavioral\Strategy\SelectionSort;
+use DesignPatterns\Behavioral\Strategy\SortContext;
 
 
 class StrategyTest extends TestCase {
